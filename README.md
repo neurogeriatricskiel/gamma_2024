@@ -1,4 +1,4 @@
-# GAMMA 2024
+# GAMMA Workshop – Kiel 2024
 GAMMA 2024 Workshop on Python Programming for Movement Sciences
 
 ![image](https://github.com/user-attachments/assets/b4fb3ea6-d7cb-4088-a30a-fd7bdbc155c3)
