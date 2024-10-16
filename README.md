@@ -6,7 +6,7 @@ GAMMA 2024 Workshop on Python Programming for Movement Sciences
 ## Running Jupyter notebooks
 - Navigate to the notebooks subfolder
 - Launch jupyter
-- Navigate to the appropriate notebook on your browser
+- Navigate to the gamma_ws3_python_programming on your browser
 
 ```
 cd notebooks
