@@ -8,11 +8,6 @@ GAMMA 2024 Workshop on Python Programming for Movement Sciences
 - Launch jupyter
 - Navigate to the gamma_ws3_python_programming on your browser
 
-```
-cd notebooks
-jupyter notebooks
-```
-
 #### Toolboxes and/or Supporting Materials
 - [Data Science in Practice](https://datascienceinpractice.github.io/docs/index.html)
 - [Python Course](https://fabridamicelli.github.io/python-course/)
