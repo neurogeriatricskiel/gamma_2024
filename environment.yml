@@ -1,0 +1,25 @@
+name: gamma-2024-workshop
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - sphinx
+  - ipykernel
+  - jupyter
+  - ipywidgets
+  - plotly
+  - pyomeca
+  - ezc3d
+  - 3cd
+  - kineticstoolkit
+  - pip:
+    - kielmat
+    - gaitmap==2.3.0
+    - gaitmap_mad==2.3.0
+    - vqf
