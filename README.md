@@ -39,3 +39,10 @@ For those who prefer to run the notebooks on their local machines:
    Start Jupyter Notebook by navigating to the folder in your terminal or command prompt and running:
    ```bash
    jupyter notebook
+
+#### Toolboxes and/or Supporting Materials
+- [Data Science in Practice](https://datascienceinpractice.github.io/docs/index.html)
+- [Python Course](https://fabridamicelli.github.io/python-course/)
+- [Kiel Motion Analysis Toolbox](https://neurogeriatricskiel.github.io/KielMAT/)
+- [Kinetics Toolkit](https://kineticstoolkit.uqam.ca/doc/index.php)
+- [Gait and Movement Analysis Package](https://github.com/mad-lab-fau/gaitmap)
