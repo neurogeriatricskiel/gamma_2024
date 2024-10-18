@@ -40,7 +40,7 @@ For those who prefer to run the notebooks on their local machines:
    ```bash
    jupyter notebook
 
-#### Toolboxes and/or Supporting Materials
+## Toolboxes and/or Supporting Materials
 - [Data Science in Practice](https://datascienceinpractice.github.io/docs/index.html)
 - [Python Course](https://fabridamicelli.github.io/python-course/)
 - [Kiel Motion Analysis Toolbox](https://neurogeriatricskiel.github.io/KielMAT/)
