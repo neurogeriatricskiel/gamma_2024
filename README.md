@@ -1,7 +1,7 @@
+![image](https://github.com/user-attachments/assets/b4fb3ea6-d7cb-4088-a30a-fd7bdbc155c3)
+
 # GAMMA Workshop – Kiel 2024
 Welcome to the **GAMMA 2024 Workshop on Python Programming for Movement Sciences**. This repository provides the materials and guidance for participants to get hands-on experience with Python programming for movement data analysis.
-
-![image](https://github.com/user-attachments/assets/b4fb3ea6-d7cb-4088-a30a-fd7bdbc155c3)
 
 ## Python for Movement Sciences
 
