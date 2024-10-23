@@ -16,10 +16,10 @@ dependencies:
   - plotly
   - pyomeca
   - ezc3d
-  - c3d
   - kineticstoolkit
   - pip:
     - kielmat
     - gaitmap==2.3.0
     - gaitmap_mad==2.3.0
     - vqf
+    - c3d
