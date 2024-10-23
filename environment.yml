@@ -16,7 +16,7 @@ dependencies:
   - plotly
   - pyomeca
   - ezc3d
-  - 3cd
+  - c3d
   - kineticstoolkit
   - pip:
     - kielmat
